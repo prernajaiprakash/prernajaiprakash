@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-💬 A brief introduction about me: I am a passionate and experienced data analyst with a strong background in data extraction, statistical analysis, and predictive modeling. I hold a Master's degree in Information Systems from the University of Maryland and have hands-on experience using tools such as Python, SQL, R, Power BI, and Tableau. My professional journey includes significant roles where I employed data analytics to drive operational efficiency, optimize business processes, and deliver actionable insights.
+I'm Prerna Jaiprakash, a data enthusiast with a strong passion for turning raw data into meaningful insights. With a Master's in Information Systems from the University of Maryland and hands-on experience in Python, SQL, R, Power BI, and Tableau, I've had the privilege of working on projects that drive operational efficiency and optimize business processes.
 
-Currently, I work as a Data Analyst at SunPubs Investment Group, where I have successfully developed predictive models and interactive dashboards to enhance decision-making processes. My previous experience as a Data Scientist at CrowdDoing and an internship at Latimer Ventures have equipped me with a comprehensive skill set in data mining, natural language processing, and statistical analysis. I thrive in fast-paced environments, leveraging my technical skills and analytical mindset to solve complex problems and contribute to organizational growth.
+Currently, I'm a Data Analyst at SunPubs Investment Group, where I've built predictive models and interactive dashboards that help our team make smarter decisions. Before this, I honed my skills as a Data Scientist at CrowdDoing and during an internship at Latimer Ventures, diving deep into data mining, natural language processing, and advanced analytics. I love working in dynamic environments where I can use my technical skills to tackle complex challenges and contribute to the growth of the organization.
+
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/prerna-jaiprakash/)
