@@ -7,7 +7,8 @@ Currently, I work as a Data Analyst at SunPubs Investment Group, where I have su
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/prerna-jaiprakash/)
-- Email:  jaiprakashprerna@gmail.com
-- Tableau: https://public.tableau.com/app/profile/prerna.jaiprakash/vizzes
+- [Email](jaiprakashprerna@gmail.com)
+- [Tableau Public](https://public.tableau.com/app/profile/prerna.jaiprakash/vizzes)
+
 
 
